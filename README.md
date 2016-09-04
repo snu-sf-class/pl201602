@@ -11,7 +11,7 @@
 
 ## Announcements
 
-- A lab session on September 7th @ Bldg 302 Rm 312 (Software Lab).
+TBA
 
 ## Assignments
 
