@@ -1,0 +1,5 @@
+.*.aux
+*.v.d
+*.vo
+*.vio
+*.glob
