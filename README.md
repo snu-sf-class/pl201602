@@ -41,46 +41,36 @@
 
 ### Coq
 
-- ~~Use Coq [8.4pl5](https://coq.inria.fr/coq-84).  *DO NOT* use Coq 8.5!~~ TBA
+- Use Coq [8.5pl2](https://coq.inria.fr).  *DO NOT* use other versions.
     + If not, your submissions (assignments & exams) will not be properly graded.
 
 - Install Coq.
-    + Linux
+    + Linux / OS X
         * Install [opam](http://opam.ocaml.org/doc/Install.html), and make sure you can use OCaml 4.03.0.
-        * Install `libgtk2` by `sudo apt-get install libgtk2.0-dev` or `sudo yum install gtk2-devel`.
-        * Install lablgtk2 by `opam install lablgtk`
-        * ~~Download [tarball](https://coq.inria.fr/distrib/V8.4pl5/files/coq-8.4pl5.tar.gz) file.~~ TBA
-        * Extract the tarball, `./configure -coqide opt`, `make`, and then `make install`.
+        * `opam install coqide.8.5.2`
         * Test by `coqc -v` in the command line. Check your `PATH` variable if you get an error.
         * Run CoqIDE by `coqide`.
-    + For Windows / OS X
-        * ~~Install [Coq for Windows](https://coq.inria.fr/distrib/V8.4pl5/files/coq-installer-8.4pl5.exe)~~ TBA
-        * ~~Install [Coq for OS X](https://coq.inria.fr/distrib/V8.4pl5/files/coqide-8.4pl5.dmg)~~ TBA
+
+    + For Windows
+        * Install [Coq for Windows](https://coq.inria.fr/download)
+        * Cygwin (for `make`). 
+            - Download [Cygwin](https://cygwin.com/install.html).  *CAUTION*: choose 32- or 64-bit versions correctly.
+            - Install Cygwin. Make sure that you install `bash` and `make` (in Select packages). Installation may take a long time.
+            - Now by "terminal" we mean the Cygwin terminal.
+        * Add the directory that contains Coq binaries in the `PATH` variable.
+            - Edit your Shell init file (like `~/.bashrc` or `~/.bash_profile`).
+            - Find the file in `C:\cygwin\home\[USER_ID]`.
+            - Add `export PATH=$PATH:/cygdrive/c/Program\ Files\ \(x86\)/Coq/bin/` at the end of the file. The directory to add may be different for your environment.
+            - Restart the terminal to apply `~/.bashrc`.
+            - Check `which coqc` in the terminal. It should point to the `coqc` binary.
 
 - Use IDEs supporting Coq.
-    + ~~CoqIDE: Download those bundled with CoqIDE in the [Download page](https://coq.inria.fr/coq-84).~~ TBA
+    + CoqIDE: installed by default.
     + Emacs: [Company-Coq](https://github.com/cpitclaudel/company-coq). Follow the setup instructions.
-
-- Install Cygwin in Windows.
-    + If you use Unix-like OS, just ignore it.
-    + Download [Cygwin](https://cygwin.com/install.html).  *CAUTION*: choose 32- or 64-bit versions correctly.
-    + Install Cygwin. Make sure that you install `bash` and `make` (in Select packages). Installation may take a long time.
-    + Now by "terminal" we mean the Cygwin terminal.
-
-- Add the directory that contains Coq binaries in the `PATH` variable.
-    + Edit your Shell init file (like `~/.bashrc` or `~/.bash_profile`).
-        * For Cygwin, find the file in `C:\cygwin\home\[USER_ID]`.
-    + Add `export PATH=$PATH:[THE_DIRECTORY_CONTAINS_COQ]` at the end of the file.
-    + Check `which coqc` in the terminal. It should point to the `coqc` binary.
-        * Restart the terminal to apply `~/.bashrc`.
-    + For Windows, the directory is highly likely ` /cygdrive/c/Program\ Files\ \(x86\)/Coq/bin/`.
-        * NOTE: DO NOT USE `C:\Program Files (x86)\Coq\bin`. In Cygwin, `C:` is recognized as `/cygdrive/c`.
-    + For OS X, the directory is highly likely `/Applications/CoqIDE_8.4pl5.app/Contents/Resources/bin/`.
-    + For Linux, `PATH` may already contain the directory. Check by `which coqc`.
 
 ### Textbook: Software Foundations
 
-- ~~The textbook is in this repository's `sf/` directory.~~ TBA
+- The textbook is in this repository's `sf/` directory.
 - *DO NOT DOWNLOAD* the textbook from [The official Software Foundation website](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html) in order to keep in sync.
 
 ### Assignment
