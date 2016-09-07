@@ -72,6 +72,7 @@ TBA
 - Use IDEs supporting Coq.
     + CoqIDE: installed by default.
     + Emacs: [Company-Coq](https://github.com/cpitclaudel/company-coq). Follow the setup instructions.
+    + Vim: [Coquille](https://github.com/the-lambda-church/coquille). See the troubleshootings below.
 
 ### Textbook: Software Foundations
 
