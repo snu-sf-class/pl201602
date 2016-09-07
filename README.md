@@ -45,14 +45,11 @@ TBA
     + If not, your submissions (assignments & exams) will not be properly graded.
 
 - Install Coq.
-    + Linux / OS X
-        * Install [opam](http://opam.ocaml.org/doc/Install.html), and make sure you can use OCaml 4.03.0.
-        * `opam install coqide.8.5.2`
-        * Test by `coqc -v` in the command line. Check your `PATH` variable if you get an error.
-        * Run CoqIDE by `coqide`.
+    + Installer (Linux / Windows)
+        * Download [Binaries](https://coq.inria.fr/download) and install it.
+        * Windows: after installing it, see below ("Cygwin For Windows").
 
-    + For Windows
-        * Install [Coq for Windows](https://coq.inria.fr/download)
+    + Cygwin For Windows
         * Cygwin (for `make`). 
             - Download [Cygwin](https://cygwin.com/install.html).  *CAUTION*: choose 32- or 64-bit versions correctly.
             - Install Cygwin. Make sure that you install `bash` and `make` (in Select packages). Installation may take a long time.
@@ -63,6 +60,14 @@ TBA
             - Add `export PATH=$PATH:/cygdrive/c/Program\ Files\ \(x86\)/Coq/bin/` at the end of the file. The directory to add may be different for your environment.
             - Restart the terminal to apply `~/.bashrc`.
             - Check `which coqc` in the terminal. It should point to the `coqc` binary.
+
+    + OPAM (Linux / OS X)
+        * Install necessary libraries.
+            - OS X: `brew install 
+        * Install [opam](http://opam.ocaml.org/doc/Install.html), and make sure you can use OCaml 4.03.0.
+        * `opam install coqide.8.5.2`
+        * Test by `coqc -v` in the command line. Check your `PATH` variable if you get an error.
+        * Run CoqIDE by `coqide`.
 
 - Use IDEs supporting Coq.
     + CoqIDE: installed by default.
