@@ -11,7 +11,8 @@
 
 ## Announcements
 
-- 2016/09/09: Grading scheme is announced. See below.
+- 2016/09/09: The grading scheme is announced. See below.
+- 2016/09/09: Star this repository to get emails on updates.
 
 ## Assignments
 
