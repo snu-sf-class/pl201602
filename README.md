@@ -126,6 +126,11 @@ TBA
 
 ### Troubleshootings
 
+- If you run `coqide` from a terminal, you may get the following error message. But it is okay.
+
+        (process:16700): Gtk-WARNING **: Locale not supported by C library.
+                Using the fallback 'C' locale.
+
 - If something bad happens, please download the most recent version of the assignments.
 - You may have to `make` before interacting with IDEs.
 - You can specify the CRLF handling strategy in Git ([cf](http://stackoverflow.com/questions/170961/whats-the-best-crlf-carriage-return-line-feed-handling-strategy-with-git)). In Windows, some strategies may break the Makefile. Please just use the linebreaks as in the repository.
