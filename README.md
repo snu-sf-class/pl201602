@@ -11,7 +11,7 @@
 
 ## Announcements
 
-TBA
+- 2016/09/09: Grading scheme is announced. See below.
 
 ## Assignments
 
@@ -24,10 +24,21 @@ TBA
 
 ### Grading
 
-- Assignments: 45%
-    + Coq problems in the [software foundations material](http://www.cis.upenn.edu/~bcpierce/sf/current/index.html). Read carefully the next subsections.
-- Exams: 50% (mid-term 20% and final 30%)
+- Exams: 75% (mid-term 35% and final 40%)
     + You will solve Coq problems at the lab during the exam.
+- Assignments: 20%
+    + Coq problems in the [software foundations material](http://www.cis.upenn.edu/~bcpierce/sf/current/index.html). Read carefully the next subsections.
+    + In the exams, there will be questions that are related to assignments. If you get those questions wrong, your assignment score will be reducted.
+        * Suppose Your nominal assignment score (for beginning to midterm) is `S`.
+        * Suppose the midterm has three assignment-related questions: A, B, C. They will be annotated with a weight (for e.g. `w(A)`).
+        * Suppose `f(A)` is a boolean variable that represents whether you got the question A wrong or not. `f(A)=1` means you got wrong.
+        * Your adjusted assignment score will be `S * (1 - f(A) * w(A) - f(B) * w(B) - f(C) * w(C))`.
+
+ Suppose the midterm has three assignment-related questions: A, B, C. It will be annotated with a weight (`w(A)`, `w(B)`, `w(C)`).
+
+Your assignment score (for beginning to midterm) is `S`.
+
+will be (nominal score) * (100% - )
 - Attendance: 5%
     + -1% per absence.  *IMPORTANT: 6 absences make an F*.
 
@@ -66,7 +77,7 @@ TBA
             - OS X
 
                     # install brew (http://brew.sh/index.html)
-                    brew install gtksourceview
+                    brew install gtksourceview libxml2
 
             - CentOS-like Linux
 
@@ -95,20 +106,19 @@ TBA
 ### Assignment
 
 - Assignments will be issued every Wednesday.  The deadline is the next Sunday (10 days later).  The deadline for the delayed submission is the next to the next Sunday (17 days later).
+- The maximum score of a delayed submission is 80% that of a regular submission.
+    + The granularity the delayed submission is per-problem, not per-assignment. So even if you couldn't get the full score for the regular submission period, try to solve the remaining problems and submit them.
 
 #### Honor Code: *DO NOT CHEAT*
 
-- If you copy others' source code, you will get F.
-- "Others' source code" includes other students' and resources around the web. Especially, do not consult with public repositories on software foundations.
-- Note that we have a good automatic clone detector. We found out that a lot of students cheated last time. We hope we all be happy at the end of the semester..
-- The maximum score of a delayed submission is 80% that of a regular submission.
-    + The granularity the delayed submission is per-problem, not per-assignment. So even if you couldn't get the full score for the regular submission period, try to solve the remaining problems and submit them.
+- Do not copy others' source code, including other students' and resources around the web. Especially, do not consult with public repositories on software foundations.
+- Assignment score will be adjusted with the exam score. See above.
 
 #### Submission
 
 - `assignments/$NAME` directory is the assignment `$NAME`.
     + You submit `P??.v` files.  You should edit only `P??.v`. *DO NOT TOUCH ANYTHING ELSE*.
-    + `E??.v` files are for evaluation.
+    + `E??_??.v` files are for evaluation.
     + Everything else are for relevant the definitions for the assignment.
 - `make` in the terminal to compile files so that IDE can understand them.
 - Edit `P??.v` files to do the assignment.
@@ -116,10 +126,10 @@ TBA
 - Both `make` and `make eval` *SHOULD SUCCEED*. If not, your score will be 0.
 - `make eval` will check your submission.
     + `P??.v` files *SHOULD NOT* contain `admit`, `Admitted`, and anything in `forbidden.txt`.
-    + If a `P??.v` file contains string `GIVEUP`, then it will be scored 0.
+    + If a `P??.v` file contains string `FILL_IN_HERE`, then it will be scored 0.
 - `make submission` to prepare your submission.
     + `zip` should be installed. Otherwise, you can just zip `P??.v`.
-- ~~Submit at: http://147.46.219.145:8100/~~ TBA
+- Submit at: http://147.46.219.145:8100/
     + *DO NOT ATTACK*. Please.
     + *DO NOT USE A STRONG PASSWORD*. It is `http`.
     + If your submission status is `SYSTEM ERROR` or `RUNNING` for a long time, even after refreshing your web browser for several times, please ask the TA.
