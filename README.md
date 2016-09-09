@@ -45,7 +45,7 @@ TBA
     + If not, your submissions (assignments & exams) will not be properly graded.
 
 - Install Coq.
-    + Installer (Linux / Windows)
+    + Installer (OS X / Windows)
         * Download [Binaries](https://coq.inria.fr/download) and install it.
         * Windows: after installing it, see below ("Cygwin For Windows").
 
@@ -63,8 +63,21 @@ TBA
 
     + OPAM (Linux / OS X)
         * Install necessary libraries.
-            - OS X: `brew install 
+            - OS X
+
+                    # install brew (http://brew.sh/index.html)
+                    brew install gtksourceview
+
+            - CentOS-like Linux
+
+                    sudo yum install gtksourceview2-devel
+
+            - Debian-like Linux
+
+                    sudo apt-get install liblablgtksourceview2-ocaml-dev
+
         * Install [opam](http://opam.ocaml.org/doc/Install.html), and make sure you can use OCaml 4.03.0.
+        * `opam init --comp 4.03.0`
         * `opam install coqide.8.5.2`
         * Test by `coqc -v` in the command line. Check your `PATH` variable if you get an error.
         * Run CoqIDE by `coqide`.
