@@ -1,6 +1,6 @@
 Require Export P03.
 
-(** **** Problem #2 : 1 star (zero_nbeq_plus_1) *)
+(** **** Problem #4 : 1 star (zero_nbeq_plus_1) *)
 
 (* See the base file for the definition of [beq_nat]. *)
 

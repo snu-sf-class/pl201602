@@ -1,6 +1,6 @@
 Require Export P01.
 
-(** **** Problem #3: 2 stars (blt_nat) *)
+(** **** Problem #2: 2 stars (blt_nat) *)
 (** The [blt_nat] function tests [nat]ural numbers for [l]ess-[t]han,
     yielding a [b]oolean.  Use [Fixpoint] to define it. *)
 

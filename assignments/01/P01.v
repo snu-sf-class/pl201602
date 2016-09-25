@@ -1,6 +1,6 @@
 Require Export D.
 
-(** **** Problem #2: 1 star (factorial) *)
+(** **** Problem #1: 1 star (factorial) *)
 (** Recall the standard factorial function:
 <<
     factorial(0)  =  1 
