@@ -14,6 +14,7 @@
 - 2016/09/09: The grading scheme is announced. See below.
 - 2016/09/09: Star this repository to get emails on updates.
 - 2016/09/09: The evaluation server is open.(http://147.46.219.145:8100/ ) Your ID/Password is Student Number. Please change your password.
+- 2016/10/10: Our midterm is scheduled to be in Oct. 30 2pm ~ 4pm.
 
 ## Assignments
 
@@ -21,6 +22,7 @@
 |------------	|------------	|-----------------------------------------------------------------------------------	|-------	|
 | Oct.3 23:59  	| Oct.10 23:59  | Assignment 1                   	 	 	 	 	 	 	 	 	 	 	 	 	 	| 50 	    |
 | Oct.10 23:59  | Oct.17 23:59  | Assignment 2                   	 	 	 	 	 	 	 	 	 	 	 	 	 	| 100 	    |
+| Oct.17 23:59  | Oct.24 23:59  | Assignment 3                   	 	 	 	 	 	 	 	 	 	 	 	 	 	| 60 	    |
 
 ## Must Read
 
