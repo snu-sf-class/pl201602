@@ -23,6 +23,7 @@
 | Oct.3 23:59  	| Oct.10 23:59  | Assignment 1                   	 	 	 	 	 	 	 	 	 	 	 	 	 	| 50 	    |
 | Oct.10 23:59  | Oct.17 23:59  | Assignment 2                   	 	 	 	 	 	 	 	 	 	 	 	 	 	| 100 	    |
 | Oct.17 23:59  | Oct.24 23:59  | Assignment 3                   	 	 	 	 	 	 	 	 	 	 	 	 	 	| 60 	    |
+| Oct.24 23:59  | Oct.31 23:59  | Assignment 4                   	 	 	 	 	 	 	 	 	 	 	 	 	 	| 110 	    |
 
 ## Must Read
 
