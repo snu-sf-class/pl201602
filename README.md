@@ -15,6 +15,7 @@
 - 2016/09/09: Star this repository to get emails on updates.
 - 2016/09/09: The evaluation server is open.(http://147.46.219.145:8100/ ) Your ID/Password is Student Number. Please change your password.
 - 2016/10/10: Our midterm is scheduled to be in Oct. 30 2pm ~ 4pm.
+- 2016/10/19: Due to the error mentioned in issue #28, I updated E?? files in assignment 04. Please download the files again please.
 
 ## Assignments
 
