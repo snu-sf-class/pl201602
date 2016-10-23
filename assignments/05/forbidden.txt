@@ -1,0 +1,6 @@
+admit
+Admitted
+tauto
+intuition
+firstorder
+omega
