@@ -17,6 +17,7 @@
 - 2016/10/10: Our midterm is scheduled to be in Oct. 30 2pm ~ 4pm.
 - 2016/10/19: Due to the error mentioned in issue #28, I updated E?? files in assignment 04. Please download the files again please.
 - 2016/10/27: Assignment 4 due (delay) is pulled to Friday (Oct.28).
+- 2016/10/27: Midterm will be held in 302동 소프트웨어실습실 (Building 302, 311-1).
 
 ## Assignments
 
