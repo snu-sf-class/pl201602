@@ -16,6 +16,7 @@
 - 2016/09/09: The evaluation server is open.(http://147.46.219.145:8100/ ) Your ID/Password is Student Number. Please change your password.
 - 2016/10/10: Our midterm is scheduled to be in Oct. 30 2pm ~ 4pm.
 - 2016/10/19: Due to the error mentioned in issue #28, I updated E?? files in assignment 04. Please download the files again please.
+- 2016/10/27: Assignment 4 due (delay) is pulled to Friday (Oct.28).
 
 ## Assignments
 
@@ -24,7 +25,7 @@
 | Oct.3 23:59  	| Oct.10 23:59  | Assignment 1                   	 	 	 	 	 	 	 	 	 	 	 	 	 	| 50 	    |
 | Oct.10 23:59  | Oct.17 23:59  | Assignment 2                   	 	 	 	 	 	 	 	 	 	 	 	 	 	| 100 	    |
 | Oct.17 23:59  | Oct.24 23:59  | Assignment 3                   	 	 	 	 	 	 	 	 	 	 	 	 	 	| 60 	    |
-| Oct.24 23:59  | Oct.31 23:59  | Assignment 4                   	 	 	 	 	 	 	 	 	 	 	 	 	 	| 110 	    |
+| Oct.24 23:59  | Oct.28 23:59  | Assignment 4                   	 	 	 	 	 	 	 	 	 	 	 	 	 	| 110 	    |
 | Oct.31 23:59  | Nov.07 23:59  | Assignment 5                   	 	 	 	 	 	 	 	 	 	 	 	 	 	| 80 	    |
 
 ## Must Read
