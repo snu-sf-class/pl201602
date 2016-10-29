@@ -18,7 +18,7 @@
 - 2016/10/19: Due to the error mentioned in issue #28, I updated E?? files in assignment 04. Please download the files again please.
 - 2016/10/27: Assignment 4 due (delay) is pulled to Friday (Oct.28).
 - 2016/10/27: Midterm will be held in 302동 소프트웨어실습실 (Building 302, 311-1).
-- 2016/10/27: Solution of assignment 1/2/3 is uploaded.
+- 2016/10/27: Solution of assignment 1/2/3 is uploaded. (04 is uploaded as well)
 - 2016/10/30: Due to the error in issue # 36, I updated E03_1.v in assignment 6. Please download the files again please.
 
 ## Assignments
