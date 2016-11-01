@@ -20,6 +20,7 @@
 - 2016/10/27: Midterm will be held in 302동 소프트웨어실습실 (Building 302, 311-1).
 - 2016/10/27: Solution of assignment 1/2/3 is uploaded. (04 is uploaded as well)
 - 2016/10/30: Due to the error in issue # 36, I updated E03_1.v in assignment 6. Please download the files again please.
+- 2016/11/02: The class on 2016/11/02 is cancelled.
 
 ## Assignments
 
