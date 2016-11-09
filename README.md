@@ -58,6 +58,7 @@ Your assignment score (for beginning to midterm) is `S`.
 will be (nominal score) * (100% - )
 - Attendance: 5%
     + -1% per absence.  *IMPORTANT: 6 absences make an F*.
+    + Maximum 2 absences are allowed.
 
 ### Questions
 
