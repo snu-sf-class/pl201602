@@ -14,16 +14,16 @@
    - Just leave [exact FILL_IN_HERE] for those problems that you fail to prove.
 *)
 
-Require Import Coq.Arith.Arith.
-Require Import Coq.Bool.Bool.
-Require Import Coq.Logic.FunctionalExtensionality.
-Require Import Coq.Arith.EqNat.
-Require Import Coq.omega.Omega.
+Require Export Coq.Arith.Arith.
+Require Export Coq.Bool.Bool.
+Require Export Coq.Logic.FunctionalExtensionality.
+Require Export Coq.Arith.EqNat.
+Require Export Coq.omega.Omega.
 Require Export Coq.Lists.List.
 Import ListNotations.
 Require Export Basics.
-Require Import Maps.
-Require Import Imp.
+Require Export Maps.
+Require Export Imp.
 
 Definition FILL_IN_HERE {T: Type} : T.  Admitted.
 
