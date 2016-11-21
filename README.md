@@ -34,6 +34,7 @@
 | Oct.24 23:59  | Oct.28 23:59  | Assignment 4                   	 	 	 	 	 	 	 	 	 	 	 	 	 	| 110 	    |
 | Oct.31 23:59  | Nov.07 23:59  | Assignment 5                   	 	 	 	 	 	 	 	 	 	 	 	 	 	| 80 	    |
 | Nov.07 23:59  | No delay      | Assignment 6                                                                          | 130       |
+| Nov.30 23:59  | No delay      | Assignment 7                                                                          | 170       |
 
 ## Must Read
 
