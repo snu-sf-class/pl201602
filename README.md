@@ -24,6 +24,7 @@
 - 2016/11/02: Due to the error in issue # 36, I updated E03_1.v in assignment 6. Please download the files again please.
 - 2016/11/07: The class on 2016/11/07 is cancelled.
 - 2016/11/22: Problems/Solution of midterm is uploaded
+- 2016/11/24: Final term will be in Dec.10 6:30 ~ 9:30 pm. We have a makeup class at Nov.25 5:00 pm
 
 ## Assignments
 
