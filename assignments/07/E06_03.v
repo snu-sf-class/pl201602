@@ -1,4 +1,5 @@
 Require Import P06.
+Import ListNotations.
 
 
 
