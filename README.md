@@ -23,6 +23,8 @@
 - 2016/11/02: The class on 2016/11/02 is cancelled.
 - 2016/11/02: Due to the error in issue # 36, I updated E03_1.v in assignment 6. Please download the files again please.
 - 2016/11/07: The class on 2016/11/07 is cancelled.
+- 2016/11/22: Problems/Solution of midterm is uploaded
+- 2016/11/24: Final term will be in Dec.10 6:30 ~ 9:30 pm. We have a makeup class at Nov.25 5:00 pm
 
 ## Assignments
 
@@ -34,6 +36,7 @@
 | Oct.24 23:59  | Oct.28 23:59  | Assignment 4                   	 	 	 	 	 	 	 	 	 	 	 	 	 	| 110 	    |
 | Oct.31 23:59  | Nov.07 23:59  | Assignment 5                   	 	 	 	 	 	 	 	 	 	 	 	 	 	| 80 	    |
 | Nov.07 23:59  | No delay      | Assignment 6                                                                          | 130       |
+| Nov.30 23:59  | No delay      | Assignment 7                                                                          | 170       |
 
 ## Must Read
 
