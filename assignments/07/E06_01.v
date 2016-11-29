@@ -1,5 +1,5 @@
 Require Import P06.
-
+Import ListNotations.
 
 
 Check s_execute1 :
