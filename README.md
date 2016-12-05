@@ -40,7 +40,7 @@
 | Oct.31 23:59  | Nov.07 23:59  | Assignment 5                   	 	 	 	 	 	 	 	 	 	 	 	 	 	| 80 	    |
 | Nov.07 23:59  | No delay      | Assignment 6                                                                          | 130       |
 | Nov.30 23:59  | No delay      | Assignment 7                                                                          | 170       |
-| Dec.09 ~~23:59~~ 11:59 | No delay      | Assignment 8~12                                                                       | 200(total)|
+| ~~Dec.07 23:59~~ Dec.09 11:59 | No delay      | Assignment 8~12                                                                       | 200(total)|
 
 ## Must Read
 
