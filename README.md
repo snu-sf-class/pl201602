@@ -27,6 +27,7 @@
 - 2016/11/24: Final term will be in Dec.10 6:30 ~ 9:30 pm. We have a makeup class at Nov.25 5:00 pm
 - 2016/11/29: You don't need to solve P03.v in Assn 7 ; see https://github.com/snu-sf-class/pl201602/issues/52 
 - 2016/11/29: Assignment 8~12 is uploaded.
+- 2016/12/05: Due date of Assignment 8~12 is delayed to Fri, 11:59 AM.
 
 ## Assignments
 
