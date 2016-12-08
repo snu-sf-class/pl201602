@@ -55,7 +55,7 @@
     + Coq problems in the [software foundations material](http://www.cis.upenn.edu/~bcpierce/sf/current/index.html). Read carefully the next subsections.
     + In the exams, there will be questions that have appeared in assignments. If you get those questions wrong and if you solved them in assignment , your assignment score will be reducted. (12/07 updated)
         * Suppose Your nominal assignment score (for beginning to midterm) is `S`.
-        * Suppose the midterm has N assignment-related questions.
+        * Suppose the midterm has N assignment-related questions, and they are unsolved.
         * Your adjusted assignment score will be `S * (1 - f(N))`.
         * f(1) = 0.1 ; f(2) = 0.2 ; f(3) = 0.5 ; f(4) = 0.7 ; f(5) = 0.9
 
