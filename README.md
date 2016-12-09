@@ -29,7 +29,8 @@
 - 2016/11/29: Assignment 8~12 is uploaded.
 - 2016/12/05: Due date of Assignment 8~12 is delayed to Fri, 11:59 AM.
 - 2016/12/07: Midterm score announcement & Change in grading policy ; see https://github.com/snu-sf-class/pl201602/issues/61
-- 2016/12/09: Homework solution is uploaded.
+- 2016/12/09: Homework solution is uploaded : see https://github.com/snu-sf-class/pl201602/issues/64 
+- 2016/12/09: Final term announcement : see https://github.com/snu-sf-class/pl201602/issues/64
 
 ## Assignments
 
