@@ -1,0 +1,3 @@
+admit
+Admitted
+Axiom
