@@ -31,6 +31,7 @@
 - 2016/12/07: Midterm score announcement & Change in grading policy ; see https://github.com/snu-sf-class/pl201602/issues/61
 - 2016/12/09: Homework solution is uploaded : see https://github.com/snu-sf-class/pl201602/issues/65 
 - 2016/12/09: Final term announcement : see https://github.com/snu-sf-class/pl201602/issues/64
+- 2016/12/14: Total score is out : see https://github.com/snu-sf-class/pl201602/issues/68
 
 ## Assignments
 
