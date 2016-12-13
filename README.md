@@ -51,7 +51,7 @@
 
 ### Grading
 
-- Exams: 75% (mid-term ~~35%~~ 30% and final 40%)
+- Exams: ~~75%~~70% (mid-term ~~35%~~ 30% and final 40%)
     + You will solve Coq problems at the lab during the exam.
 - Assignments: ~~20%~~ 25%
     + Coq problems in the [software foundations material](http://www.cis.upenn.edu/~bcpierce/sf/current/index.html). Read carefully the next subsections.
